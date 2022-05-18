@@ -1,2 +1,2 @@
-# PruebaInterpolacionesyRuidoPerling este es un pequeño ejercicio de prueba sobre la utilización de interpolaciones y ruidos perling en unity.
+# PruebaInterpolacionesyRuidoPerling is a small try on using interpolation and perling noise in Unity.
  
